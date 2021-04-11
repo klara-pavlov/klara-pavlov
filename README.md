@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @klara-pavlov
 - 👀 I’m interested in web developement and design
 - 🌱 I’m currently learning React.js and UX/UI
-- 📫 How to reach me --> email: klara.pavlov.dev@gmail.com
 
 <!---
 klara-pavlov/klara-pavlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
